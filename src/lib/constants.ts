@@ -15,13 +15,6 @@ export const DOCTORS = [
     description: "Especialista em cirurgia plástica estética e reparadora, com vasta experiência em procedimentos corporais e faciais de alta complexidade.",
   },
   {
-    name: "Dra. Marcela Tavares",
-    role: "Cirurgiã Plástica",
-    crm: "CRM/PB 11805 · RQE 10714",
-    photo: "/images/dra-marcela.JPG",
-    description: "Especialista em cirurgia plástica com foco em resultados naturais e harmonização facial, unindo técnica refinada e sensibilidade estética.",
-  },
-  {
     name: "Dra. Sandra Karina Rolim",
     role: "Ginecologista · Endoscopia Ginecológica",
     crm: "CRM/PB 7811 · RQE 3882 / 3892",

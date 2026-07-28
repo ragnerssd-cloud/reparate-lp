@@ -86,7 +86,7 @@ export default function Hero() {
           <div className="relative w-full h-full overflow-hidden" style={{ borderRadius: "2px" }}>
             <Image
               src="/images/casal.JPG"
-              alt="Dr. Daniel Rolim e Dra. Marcela Tavares — Instituto Reparatè"
+              alt="Dr. Daniel Rolim — Instituto Reparatè"
               fill
               priority
               className="object-cover"
